@@ -10,7 +10,7 @@
 5. Insomnia -- Use local host and test GET, Post, Put, and DELETE request
 
 ## Video
-[Link](https://watch.screencastify.com/v/UFiGuK1viIRjwrRfRT39)
+https://watch.screencastify.com/v/UFiGuK1viIRjwrRfRT39
 ## Screenshots
 ![Sequelize](https://github.com/Jeremyethridge/E-Commerce/assets/128623643/03485c57-50e4-4c49-8b6e-0116792d6366)
 ![sequelize1](https://github.com/Jeremyethridge/E-Commerce/assets/128623643/1ac00419-fb96-492d-baf7-06aa2f12ffc7)
